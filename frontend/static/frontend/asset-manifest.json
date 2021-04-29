@@ -1,0 +1,18 @@
+{
+  "files": {
+    "static/js/0.chunk.js": "/static/frontend/static/js/0.chunk.js",
+    "static/js/0.chunk.js.map": "/static/frontend/static/js/0.chunk.js.map",
+    "main.js": "/static/frontend/static/js/main.chunk.js",
+    "main.js.map": "/static/frontend/static/js/main.chunk.js.map",
+    "runtime-main.js": "/static/frontend/static/js/bundle.js",
+    "runtime-main.js.map": "/static/frontend/static/js/bundle.js.map",
+    "vendors~main.js": "/static/frontend/static/js/vendors~main.chunk.js",
+    "vendors~main.js.map": "/static/frontend/static/js/vendors~main.chunk.js.map",
+    "static/media/logo.svg": "/static/frontend/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/bundle.js",
+    "static/js/vendors~main.chunk.js",
+    "static/js/main.chunk.js"
+  ]
+}
